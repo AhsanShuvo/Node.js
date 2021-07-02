@@ -1,0 +1,6 @@
+const names = require('./objectExport')
+const sayHi = require('./singleExport')
+console.log(names)
+sayHi('susan')
+sayHi(names.peter)
+sayHi(names.john)
