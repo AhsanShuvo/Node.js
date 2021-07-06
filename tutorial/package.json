@@ -4,6 +4,7 @@
   "description": "",
   "main": "alternativeExport.js",
   "dependencies": {
+    "lodash": "^4.17.21",
     "npm": "^7.19.0"
   },
   "devDependencies": {},
